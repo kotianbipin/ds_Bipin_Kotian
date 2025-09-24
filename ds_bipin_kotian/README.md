@@ -1,4 +1,4 @@
-README.md
+
 Overview
 This project involves the exploration and analysis of two key datasets to investigate the relationship between trader behavior and market sentiment. The goal is to identify how trading activity, including profitability, risk, volume, and leverage, correlates with overall market sentiment, as represented by the Fear & Greed Index. The analysis seeks to uncover actionable insights that could be used to develop more informed trading strategies.
 
